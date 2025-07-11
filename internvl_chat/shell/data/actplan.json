@@ -1,0 +1,11 @@
+{
+    "ActPlan-1K-SFT": {
+      "root": "/mnt/pfs-gv8sxa/tts/dhg/sunshibo/ActPlan-1K/annotation",
+      "annotation": "/mnt/pfs-gv8sxa/tts/dhg/sunshibo/ActPlan-1K/sft_dataset.jsonl",
+      "data_augment": false,
+      "max_dynamic_patch": 12,
+      "repeat_time": 1,
+      "length": 611
+    }
+  }
+  
