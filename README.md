@@ -17,11 +17,6 @@ The following figure shows the overall architecture of the LLaPa framework:
 
 ---
 
-## Paper Overview
-
-Large language models (LLMs) have driven procedural planning in embodied AI systems with their strong reasoning abilities. However, the integration of multimodal input and counterfactual reasoning remains underexplored. To address these challenges, we introduce LLaPa. Experiments show that LLaPa generates higher-quality plans on ActPlan-1K and ALFRED benchmarks, outperforming existing state-of-the-art models in both LCS (Longest Common Subsequence) and correctness.
-
----
 
 ## Quick Start
 
